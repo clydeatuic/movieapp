@@ -1,4 +1,4 @@
-#Web Dev't Final Quiz 1
+#Web Dev't Finals Activity 2
 Using Node + Heroku + TMDB API Boilerplate
 
 ##Setup
