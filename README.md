@@ -2,6 +2,11 @@
 Using Node + Heroku + TMDB API Boilerplate
 
 ##Setup
+1. Sign up [here](https://www.themoviedb.org/)
+1. Verify email
+1. Login to our account
+1. Navigate to API Page and Request an API Developer Key
+	Note: [TMDB Documentation Page here](https://www.themoviedb.org/documentation/api)
 1. Verify versions for git, node, npm, sublime and heroku
 1. Tree View
 ```
@@ -11,7 +16,7 @@ Using Node + Heroku + TMDB API Boilerplate
 | | +-- css
 | | | `-- app.css
 | | +-- img
-| | | `-- winteriscomming.jpg
+| | | `-- faveicon.ico
 | | +-- js
 | | | `-- app.js
 | +-- views
@@ -23,8 +28,3 @@ Using Node + Heroku + TMDB API Boilerplate
 | `-- README.md
 | `-- server.js
 ```
-1. Sign up [here](https://www.themoviedb.org/)
-1. Verify email
-1. Login to our account
-1. Navigate to API Page and Request an API Developer Key
-	Note: [TMDB Documentation Page here](https://www.themoviedb.org/documentation/api)
